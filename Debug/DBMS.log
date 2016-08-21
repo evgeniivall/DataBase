@@ -1,0 +1,7 @@
+﻿  Modify.cpp
+d:\programming\c++\dbms\dbms\modify.cpp(51): warning C4018: >: несоответствие типов со знаком и без знака
+  Add.cpp
+d:\programming\c++\dbms\dbms\add.cpp(93): warning C4018: >: несоответствие типов со знаком и без знака
+d:\programming\c++\dbms\dbms\add.cpp(102): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+  DBMS.vcxproj -> D:\Programming\C++\DBMS\Debug\DBMS.exe
